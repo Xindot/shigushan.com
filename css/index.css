@@ -25,3 +25,8 @@ html, body, p {
   line-height: 50px;
   font-size: 20px;
 }
+
+#app .footer p span {
+  opacity: .5;
+  font-size: 12px;
+}
